@@ -1,0 +1,5 @@
+nav a.active {
+    text-decoration: underline;
+    font-weight: 700;
+    color: rgb(106, 77, 255);
+}
